@@ -1,0 +1,66 @@
+{
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "selfListen": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Đỗ Bá Sơn",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100045450953602",
+        "100052267622028",
+        "100070013982990",
+        "100070754251263"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCb5582U5Gh0Eh0IlU9K6HK79-NUGgwHIs"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBt0GQ0-gHEl_bSNq6U-KkyUAu3lJr1ddE"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    }
+}
